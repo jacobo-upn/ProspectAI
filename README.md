@@ -1,4 +1,4 @@
-# ProspectAI
+# ClientProspect
 Sistema copilot + power platform para la gestión de leads y clientes
 
 ## Objetivo
